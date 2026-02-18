@@ -1,0 +1,66 @@
+{
+  "companies": [
+    {
+      "id": "1234",
+      "name": "Sony",
+      "location": "Japan",
+      "foundedYear": 1946
+    },
+    {
+      "id": "5678",
+      "name": "Microsoft",
+      "location": "USA",
+      "foundedYear": 1975
+    },
+    {
+      "id": "9101",
+      "name": "Nintendo",
+      "location": "Japan",
+      "foundedYear": 1889
+    }
+  ],
+  "games": [
+    {
+      "id": "ABCD",
+      "title": "Animal Crossing: New Horizons",
+      "category": "life-sim",
+      "rating": null,
+      "companyId": "9101"
+    },
+    {
+      "id": "EFGH",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "category": "action-adventure",
+      "rating": null,
+      "companyId": "9101"
+    },
+    {
+      "id": "IJKL",
+      "title": "Halo Infinite",
+      "category": "first-person-shooter",
+      "rating": null,
+      "companyId": "5678"
+    },
+    {
+      "id": "MNOP",
+      "title": "God of War",
+      "category": "action-adventure",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "QRST",
+      "title": "The Last of Us Part II",
+      "category": "action-adventure",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "title": "Super Mario Wonder",
+      "category": "platformer",
+      "rating": null,
+      "companyId": "9101",
+      "id": "mZ72ZSO"
+    }
+  ]
+}
