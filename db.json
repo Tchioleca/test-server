@@ -11,7 +11,7 @@
     }
     {
       "id": "2",
-      "name": "Darius",
+      "name": "Ahri",
       "region": "Ionia",
       "archetype": "Rushdown",
       "likes": "Air dashing, spirit magic, new adventures",
@@ -57,7 +57,21 @@
       "meterCost": 0
     },
     {
-      "id": "zSCUzt5"
+       "name": "Mid Screen Carry BNB",
+      "difficulty": "hard",
+      "inputButtons": [
+        "2",
+        "LP",
+        "5",
+        "MP",
+        "S1",
+        "S1S"
+      ],
+      "characterId": "2",
+      "description": "...",
+      "id": "2",
+      "comboLikes": 1,
+      "meterCost": 0
     }
   ],
   "inputs": [
