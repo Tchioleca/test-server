@@ -79,109 +79,109 @@
       "id": "LP",
       "button": "LP",
       "description": "Light-Punch",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325912/Glyph-L_nyq5kz.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325912/Glyph-L_nyq5kz.svg"
     },
     {
       "id": "MP",
       "button": "MP",
       "description": "Medium-Punch",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325913/Glyph-M_kzoyhg.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325913/Glyph-M_kzoyhg.svg"
     },
     {
       "id": "HP",
       "button": "HP",
       "description": "Heavy-Punch",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325911/Glyph-H_b0f5cw.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325911/Glyph-H_b0f5cw.svg"
     },
     {
       "id": "S1",
       "button": "S1",
       "description": "Special-Move-1",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325914/Glyph-S1_eadrts.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325914/Glyph-S1_eadrts.svg"
     },
     {
       "id": "S2",
       "button": "S2",
       "description": "Special-Move-2",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325915/Glyph-S2_i7xxwb.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325915/Glyph-S2_i7xxwb.svg"
     },
     {
       "id": "S1S",
       "button": "S1S",
       "description": "Super-Move-1",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552975/Glyph-S1S2_etavx7.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552975/Glyph-S1S2_etavx7.svg"
     },
     {
       "id": "S2S",
       "button": "S2S",
       "description": "Super-Move-2",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552975/Glyph-S2S_i8n4uz.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552975/Glyph-S2S_i8n4uz.svg"
     },
     {
       "id": "S1S2",
       "button": "S1S2",
       "description": "Ultimate-Move",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552975/Glyph-S1S2_etavx7.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552975/Glyph-S1S2_etavx7.svg"
     },
     {
       "id": "5",
       "button": "5",
       "description": "Neutral-Input",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552974/Glyph-Neutral-Input_t1ju37.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552974/Glyph-Neutral-Input_t1ju37.svg"
     },
     {
       "id": "2",
       "button": "2",
       "description": "Down",
-      " image":"https://res.cloudinary.com/dywiabwjp/image/upload/v1771325911/Glyph-down_sohxtf.svg"
+      "image":"https://res.cloudinary.com/dywiabwjp/image/upload/v1771325911/Glyph-down_sohxtf.svg"
     },
     {
       "id": "6",
       "button": "6",
       "description": "Forward",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325911/Glyph-forward_isw0dn.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325911/Glyph-forward_isw0dn.svg"
     },
     {
       "id": "4",
       "button": "4",
       "description": "Back",
-      " image":"https://res.cloudinary.com/dywiabwjp/image/upload/v1771325910/Glyph-back_x0jvj8.svg"
+      "image":"https://res.cloudinary.com/dywiabwjp/image/upload/v1771325910/Glyph-back_x0jvj8.svg"
     },
     {
       "id": "8",
       "button": "8",
       "description": "Up",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325775/Glyph-up_mylbge.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325775/Glyph-up_mylbge.svg"
     },
     {
       "id": "3",
       "button": "3",
       "description": "Down-Forward",
-      " image":"https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-Down-Forward_xm85te.svg"
+      "image":"https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-Down-Forward_xm85te.svg"
     },
     {
       "id": "1",
       "button": "1",
       "description": "Down-Back",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-Down-Forward_xm85te.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-down-back_ufzd9p.svg"
     },
     {
       "id": "9",
       "button": "9",
       "description": "Up-Forward",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-Up-Forward_qpxrya.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-Up-Forward_qpxrya.svg"
     },
     {
       "id": "7",
       "button": "7",
       "description": "Up-Back",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-Up-Back_dg5tmr.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-Up-Back_dg5tmr.svg"
     },
     {
       "id": "T",
       "button": "T",
       "description": "Tag",
-      " image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325916/Glyph-T_dc18ly.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325916/Glyph-T_dc18ly.svg"
     }
   ]
 }
