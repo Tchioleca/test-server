@@ -109,7 +109,7 @@
       "id": "S1S",
       "button": "S1S",
       "description": "Super-Move-1",
-      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552975/Glyph-S1S2_etavx7.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771552975/Glyph-S1S_kpcjly.svg"
     },
     {
       "id": "S2S",
@@ -182,6 +182,12 @@
       "button": "T",
       "description": "Tag",
       "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325916/Glyph-T_dc18ly.svg"
+    },
+    {
+      "id": "nextstep",
+      "button": "nextstep",
+      "description": "Next Step",
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771589260/nextstep_fmbw4w.jpg"
     }
   ]
 }
