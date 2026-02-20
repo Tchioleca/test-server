@@ -7,7 +7,8 @@
       "archetype": "Striker",
       "likes": "Earning battle scars, sharpening his axe, the color red",
       "dislikes": "Weakness, cowardice, being underestimated",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771495212/Darius_xmveud.png"
     },
     {
       "id": "2",
@@ -16,7 +17,38 @@
       "archetype": "Rushdown",
       "likes": "Air dashing, spirit magic, new adventures",
       "dislikes": "Snow lilies",
-      "difficulty": "medium"
+      "difficulty": "medium",
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771590707/977px-Ahri_cs_o9ovoe.png"
+    },
+    {
+      "id": "3",
+      "name": "Teemo",
+      "region": "Bandle City",
+      "archetype": "Trapper",
+      "likes": "Exploring, mushrooms, being underestimated",
+      "dislikes": "Being called cute, the color pink",
+      "difficulty": "medium",
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771590884/Teemo_k3pk54.png"
+    },
+    {
+      "id": "4",
+      "name": "Blitzcrank",
+      "region": "Zaun",
+      "archetype": "Grappler",
+      "likes": "Collecting scrap, helping others, long walks on the beach",
+      "dislikes": "Being called a 'bucket of bolts",
+      "difficulty": "easy",
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771591008/Blitzcrank_i27r4w.png"
+    },
+       {
+      "id": "5",
+      "name": "Ekko",
+      "region": "Zaun",
+      "archetype": "Mixup",
+      "likes": "Time manipulation, inventing gadgets, long walks on the beach, HIS TIME",
+      "dislikes": "People who are always late",
+      "difficulty": "hard",
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771590957/Ekko_tgpp9s.png"
     }
   ],
   "combos": [
@@ -57,7 +89,7 @@
       "meterCost": 0
     },
     {
-       "name": "Mid Screen Carry BNB",
+      "name": "Mid Screen Carry BNB",
       "difficulty": "hard",
       "inputButtons": [
         "2",
@@ -133,7 +165,7 @@
       "id": "2",
       "button": "2",
       "description": "Down",
-      "image":"https://res.cloudinary.com/dywiabwjp/image/upload/v1771325911/Glyph-down_sohxtf.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325911/Glyph-down_sohxtf.svg"
     },
     {
       "id": "6",
@@ -145,7 +177,7 @@
       "id": "4",
       "button": "4",
       "description": "Back",
-      "image":"https://res.cloudinary.com/dywiabwjp/image/upload/v1771325910/Glyph-back_x0jvj8.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771325910/Glyph-back_x0jvj8.svg"
     },
     {
       "id": "8",
@@ -157,7 +189,7 @@
       "id": "3",
       "button": "3",
       "description": "Down-Forward",
-      "image":"https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-Down-Forward_xm85te.svg"
+      "image": "https://res.cloudinary.com/dywiabwjp/image/upload/v1771496103/Glyph-Down-Forward_xm85te.svg"
     },
     {
       "id": "1",
